@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**xezno/xezno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex! I like various different things - like machine learning, computer graphics, game development, and reverse engineering.
 
-Here are some ideas to get you started:
+<center>
+    <img src="https://github-readme-stats.vercel.app/api/?username=xezno&theme=dark&show_icons=true&count_private=true">
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My top artists this week
+
+| <img src=https://raw.githubusercontent.com/xezno/xezno/master/artist_images/5865f05b13574b1dcbf3ba2bb433b6d9.jpg> | <img src=https://raw.githubusercontent.com/xezno/xezno/master/artist_images/531ae76286d83508ef9f7ca521d3293e.jpg> | <img src=https://raw.githubusercontent.com/xezno/xezno/master/artist_images/2077a5a39b224de783cdf97f2e732fe9.jpg> | <img src=https://raw.githubusercontent.com/xezno/xezno/master/artist_images/d62fece12a2a435b93741532e2c6d0c0.jpg> | <img src=https://raw.githubusercontent.com/xezno/xezno/master/artist_images/9d8bc02eb9e038fb1673a79e6cfdfae4.jpg> | <img src=https://raw.githubusercontent.com/xezno/xezno/master/artist_images/04684c9ab92b55137a7fd9cabee55cb5.jpg>  |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <b>Corporate</b> | <b>Pedestrian Tactics</b> | <b>Camo & Krooked</b> | <b>Oneohtrix Point Never</b> | <b>Apashe</b> | <b>HAARPER</b>  |
+
