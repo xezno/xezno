@@ -1,6 +1,6 @@
 <h1 align="center">Hey. I'm Alex.</h1>
 
-<img align="right" width="400" height="400" src="https://avatars1.githubusercontent.com/u/12881812?s=460&u=a91d161ca6d34494d353b6b48d24d8054bae0ace&v=4" style="border-radius:1000px">
+<img align="right" width="400" height="400" src="https://avatars1.githubusercontent.com/u/12881812?s=460&u=a91d161ca6d34494d353b6b48d24d8054bae0ace&v=4">
 
 - 🎮 I’m currently working on [Engine](https://github.com/xezno/Engine)
 
