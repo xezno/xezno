@@ -1,4 +1,4 @@
-<h1 align="center">Hey. I'm Alex.</h1>
+<h1>Hey. I'm Alex.</h1>
 
 🎮 I'm mainly working on <b><a href="https://github.com/xezno/Engine">Engine</a></b>
 
