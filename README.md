@@ -16,9 +16,9 @@
 
 <p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xezno&show_icons=true&locale=en&layout=compact&langs_count=6" alt="Most Used Languages"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xezno&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark" alt="Most Used Languages"> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xezno&hide=contribs,prs&show_icons=true&count_private=true&line_height=30&custom_title=General GitHub Stats" alt="General Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xezno&hide=contribs,prs&show_icons=true&count_private=true&line_height=30&custom_title=General GitHub Stats&theme=dark" alt="General Stats">
 
 </p>
 
@@ -26,4 +26,4 @@
 
 **I'm currently vibing to:**
 
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=alexguthrie&cover_image=true&theme=novatorem" alt="Spotify">
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=alexguthrie&cover_image=true&theme=natemoo-re" alt="Spotify">
