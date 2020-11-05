@@ -39,4 +39,10 @@
 <details>
   <summary>Latest GitHub activity</summary>
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#21](https://github.com/xezno/Engine/pull/21) in [xezno/Engine](https://github.com/xezno/Engine)
+2. 💪 Opened PR [#21](https://github.com/xezno/Engine/pull/21) in [xezno/Engine](https://github.com/xezno/Engine)
+3. 🎉 Merged PR [#2](https://github.com/xezno/OpenTPW/pull/2) in [xezno/OpenTPW](https://github.com/xezno/OpenTPW)
+4. ❗️ Closed issue [#2](https://github.com/XiiiC/Among-Us-VR/issues/2) in [XiiiC/Among-Us-VR](https://github.com/XiiiC/Among-Us-VR)
+5. 🗣 Commented on [#2](https://github.com/XiiiC/Among-Us-VR/issues/2) in [XiiiC/Among-Us-VR](https://github.com/XiiiC/Among-Us-VR)
+<!--END_SECTION:activity-->
 </details>
