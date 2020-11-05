@@ -38,7 +38,9 @@
 
 <details>
   <summary>Latest GitHub activity</summary>
-  <!--START_SECTION:activity-->
+  <br>
+  
+<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#21](https://github.com/xezno/Engine/pull/21) in [xezno/Engine](https://github.com/xezno/Engine)
 2. 💪 Opened PR [#21](https://github.com/xezno/Engine/pull/21) in [xezno/Engine](https://github.com/xezno/Engine)
 3. 🎉 Merged PR [#2](https://github.com/xezno/OpenTPW/pull/2) in [xezno/OpenTPW](https://github.com/xezno/OpenTPW)
