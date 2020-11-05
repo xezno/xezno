@@ -24,10 +24,19 @@
 
 <details>
   <summary>Most used languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xezno&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark" alt="Most Used Languages"> 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=xezno&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark"
+    alt="Most Used Languages">
 </details>
 
 <details>
   <summary>General GitHub stats</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=xezno&hide=contribs,prs&show_icons=true&count_private=true&line_height=30&custom_title=General GitHub Stats&theme=dark" alt="General Stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=xezno&hide=contribs,prs&show_icons=true&count_private=true&line_height=30&custom_title=General GitHub Stats&theme=dark"
+    alt="General Stats">
+</details>
+
+<details>
+  <summary>Latest GitHub activity</summary>
+  <!--START_SECTION:activity-->
 </details>
