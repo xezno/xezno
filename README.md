@@ -26,6 +26,6 @@
 </details>
 
 <details>
-  <summary>Contribution stats</summary>
+  <summary>General GitHub stats</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=xezno&hide=contribs,prs&show_icons=true&count_private=true&line_height=30&custom_title=General GitHub Stats&theme=dark" alt="General Stats">
 </details>
