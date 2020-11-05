@@ -1,4 +1,6 @@
-<h1>Hey. I'm Alex.</h1>
+<h1 align="center">Hey. I'm Alex.</h1>
+
+### About me
 
 🎮 I mainly work on <b><a href="https://github.com/xezno/Engine">Engine</a></b>
 
@@ -12,13 +14,13 @@
 
 🤔 I'm mainly interested in game development, computer graphics, and machine learning
 
-## My contribution streak
+### My contribution streak
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xezno&theme=dark" alt="Streak Stats">
 </p>
 
-## General statistics
+### General statistics
 
 <details>
   <summary>Most used languages</summary>
