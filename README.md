@@ -1,4 +1,4 @@
-<h1 align="center">Hey. I'm Alex.</h1>
+<h1>Hey. I'm Alex.</h1>
 
 ### About me
 
@@ -16,9 +16,7 @@
 
 ### My contribution streak
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xezno&theme=dark" alt="Streak Stats">
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xezno&theme=dark" alt="Streak Stats">
 
 ### General statistics
 
