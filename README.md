@@ -12,7 +12,7 @@
 
 📫 You can email me at <b><a href="mailto:alex@gu3.me">alex@gu3.me</a></b>
 
-🤔 I'm mainly interested in game development, computer graphics, and machine learning
+🤔 I'm mainly interested in <b>game development, computer graphics, and machine learning</b>
 
 ### My contribution streak
 
