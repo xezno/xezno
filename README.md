@@ -39,10 +39,10 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-2. 💪 Opened PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-3. 🎉 Merged PR [#4](https://github.com/ThemeParkWorld/OpenTPW/pull/4) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-4. 💪 Opened PR [#4](https://github.com/ThemeParkWorld/OpenTPW/pull/4) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-5. 🎉 Merged PR [#21](https://github.com/xezno/Engine/pull/21) in [xezno/Engine](https://github.com/xezno/Engine)
+1. ❌ Closed PR [#7](https://github.com/ThemeParkWorld/OpenTPW/pull/7) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+2. ❌ Closed PR [#3](https://github.com/ThemeParkWorld/OpenTPW/pull/3) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+3. 🎉 Merged PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+4. 💪 Opened PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+5. 🎉 Merged PR [#4](https://github.com/ThemeParkWorld/OpenTPW/pull/4) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
 <!--END_SECTION:activity-->
 </details>
