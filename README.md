@@ -14,10 +14,6 @@
 
 🤔 I'm mainly interested in <b>game development, computer graphics, and machine learning</b>
 
-### My contribution streak
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xezno&theme=dark" alt="Streak Stats">
-
 ### General statistics
 
 <details>
@@ -25,6 +21,13 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=xezno&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark"
     alt="Most Used Languages">
+</details>
+
+<details>
+  <summary>Contribution streak</summary>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=xezno&theme=dark" 
+    alt="Streak Stats">
 </details>
 
 <details>
