@@ -14,27 +14,11 @@
 
 🤔 I'm mainly interested in <b>game development, computer graphics, and machine learning</b>
 
-### General statistics
+### Metrics
 
 <details>
-  <summary>Most used languages</summary>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=xezno&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark"
-    alt="Most Used Languages">
-</details>
-
-<details>
-  <summary>Contribution streak</summary>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=xezno&theme=dark" 
-    alt="Streak Stats">
-</details>
-
-<details>
-  <summary>General GitHub stats</summary>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xezno&hide=contribs,prs&show_icons=true&count_private=true&line_height=30&custom_title=General GitHub Stats&theme=dark"
-    alt="General Stats">
+  <summary>GitHub metrics</summary>
+  <img src="https://metrics.lecoq.io/xezno?base.header=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year" alt="GitHub metrics">
 </details>
 
 <details>
