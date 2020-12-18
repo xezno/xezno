@@ -26,10 +26,10 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/ThemeParkWorld/OpenTPW/pull/7) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-2. ❌ Closed PR [#3](https://github.com/ThemeParkWorld/OpenTPW/pull/3) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-3. 🎉 Merged PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-4. 💪 Opened PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-5. 🎉 Merged PR [#4](https://github.com/ThemeParkWorld/OpenTPW/pull/4) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+1. ❗️ Opened issue [#132](https://github.com/yamashi/PerformanceOverhaulCyberpunk/issues/132) in [yamashi/PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk)
+2. ❌ Closed PR [#7](https://github.com/ThemeParkWorld/OpenTPW/pull/7) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+3. ❌ Closed PR [#3](https://github.com/ThemeParkWorld/OpenTPW/pull/3) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+4. 🎉 Merged PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+5. 💪 Opened PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
 <!--END_SECTION:activity-->
 </details>
