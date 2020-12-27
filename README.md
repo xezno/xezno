@@ -26,10 +26,10 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/yamashi/PerformanceOverhaulCyberpunk/issues/132) in [yamashi/PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk)
-2. ❗️ Opened issue [#132](https://github.com/yamashi/PerformanceOverhaulCyberpunk/issues/132) in [yamashi/PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk)
-3. ❌ Closed PR [#7](https://github.com/ThemeParkWorld/OpenTPW/pull/7) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-4. ❌ Closed PR [#3](https://github.com/ThemeParkWorld/OpenTPW/pull/3) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
-5. 🎉 Merged PR [#5](https://github.com/ThemeParkWorld/OpenTPW/pull/5) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+1. ❗️ Closed issue [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
+2. 🗣 Commented on [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
+3. ❗️ Opened issue [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
+4. 🗣 Commented on [#132](https://github.com/yamashi/PerformanceOverhaulCyberpunk/issues/132) in [yamashi/PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk)
+5. ❗️ Opened issue [#132](https://github.com/yamashi/PerformanceOverhaulCyberpunk/issues/132) in [yamashi/PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk)
 <!--END_SECTION:activity-->
 </details>
