@@ -34,8 +34,8 @@ jobs:
     - name: Commit files
       run: |
         cd repo
-        git config --local user.email "12881812+xezno@users.noreply.github.com"
-        git config --local user.name "Alex"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add .
         git commit -m "Add website screenshot" -a
     - name: Push changes
