@@ -15,8 +15,8 @@ jobs:
       with:
         source: https://gu3.me/
         destination: screenshot.png
-        width: 1600
-        height: 900
+        width: 1510
+        height: 800
     - name: Download screenshot
       uses: actions/download-artifact@v2
       with:
