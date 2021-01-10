@@ -1,6 +1,9 @@
 name: Screenshot Website
 
-on: push
+on: 
+  push:
+  schedule:
+  - cron: "0 */12 * * *"
 
 jobs:
   screenshot:
@@ -12,8 +15,8 @@ jobs:
       with:
         source: https://gu3.me/
         destination: screenshot.png
-        width: 1920
-        height: 1080
+        width: 1510
+        height: 800
     - name: Download screenshot
       uses: actions/download-artifact@v2
       with:
@@ -31,12 +34,17 @@ jobs:
     - name: Commit files
       run: |
         cd repo
-        git config --local user.email "12881812+xezno@users.noreply.github.com"
-        git config --local user.name "Alex"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add .
-        git commit -m "Add website screenshot" -a
+        git commit -m "Add website screenshot" -a || echo "No website changes."
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         directory: "repo"
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Purge artifacts
+      uses: kolpav/purge-artifacts-action@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        expire-in: 0

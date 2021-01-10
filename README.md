@@ -1,6 +1,10 @@
-<h1>Hey. I'm Alex.</h1>
+<div align="center">
+  <a href="https://alex.gu3.me/">
+    <img src="https://raw.githubusercontent.com/xezno/xezno/master/screenshot.png" />
+  </a>
+</div>
 
-### About me
+<b>👆 Click this to go to my website 👆</b>
 
 🎮 I mainly work on <b><a href="https://github.com/uwutube">uwutube</a></b>
 
