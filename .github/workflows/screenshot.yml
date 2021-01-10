@@ -37,9 +37,14 @@ jobs:
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add .
-        git commit -m "Add website screenshot" -a
+        git commit -m "Add website screenshot" -a || echo "No website changes."
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         directory: "repo"
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Purge artifacts
+      uses: kolpav/purge-artifacts-action@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        expire-in: 0
