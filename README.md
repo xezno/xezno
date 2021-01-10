@@ -4,7 +4,7 @@
   </a>
 </div>
 
-👆 Click this to go to my website 👆
+<b>👆 Click this to go to my website 👆</b>
 
 🎮 I mainly work on <b><a href="https://github.com/uwutube">uwutube</a></b>
 
