@@ -28,10 +28,10 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
-2. 🗣 Commented on [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
-3. ❗️ Opened issue [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
-4. 🗣 Commented on [#132](https://github.com/yamashi/PerformanceOverhaulCyberpunk/issues/132) in [yamashi/PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk)
-5. ❗️ Opened issue [#132](https://github.com/yamashi/PerformanceOverhaulCyberpunk/issues/132) in [yamashi/PerformanceOverhaulCyberpunk](https://github.com/yamashi/PerformanceOverhaulCyberpunk)
+1. 🎉 Merged PR [#1](https://github.com/xezno/xezno/pull/1) in [xezno/xezno](https://github.com/xezno/xezno)
+2. 💪 Opened PR [#1](https://github.com/xezno/xezno/pull/1) in [xezno/xezno](https://github.com/xezno/xezno)
+3. ❗️ Closed issue [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
+4. 🗣 Commented on [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
+5. ❗️ Opened issue [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
 <!--END_SECTION:activity-->
 </details>
