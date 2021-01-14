@@ -28,10 +28,10 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/xezno/gu3.me/pull/2) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-2. 🎉 Merged PR [#1](https://github.com/xezno/gu3.me/pull/1) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-3. 🎉 Merged PR [#1](https://github.com/xezno/xezno/pull/1) in [xezno/xezno](https://github.com/xezno/xezno)
-4. 💪 Opened PR [#1](https://github.com/xezno/xezno/pull/1) in [xezno/xezno](https://github.com/xezno/xezno)
-5. ❗️ Opened issue [#1](https://github.com/uwutube/uwutube-status/issues/1) in [uwutube/uwutube-status](https://github.com/uwutube/uwutube-status)
+1. ❌ Closed PR [#3](https://github.com/xezno/gu3.me/pull/3) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
+2. 🎉 Merged PR [#2](https://github.com/xezno/gu3.me/pull/2) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
+3. 🎉 Merged PR [#1](https://github.com/xezno/gu3.me/pull/1) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
+4. 🎉 Merged PR [#1](https://github.com/xezno/xezno/pull/1) in [xezno/xezno](https://github.com/xezno/xezno)
+5. 💪 Opened PR [#1](https://github.com/xezno/xezno/pull/1) in [xezno/xezno](https://github.com/xezno/xezno)
 <!--END_SECTION:activity-->
 </details>
