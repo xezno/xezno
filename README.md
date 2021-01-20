@@ -28,10 +28,10 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/xezno/gu3.me/pull/3) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-2. 🎉 Merged PR [#2](https://github.com/xezno/gu3.me/pull/2) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-3. 🎉 Merged PR [#1](https://github.com/xezno/gu3.me/pull/1) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-4. 🎉 Merged PR [#1](https://github.com/xezno/xezno/pull/1) in [xezno/xezno](https://github.com/xezno/xezno)
-5. 💪 Opened PR [#1](https://github.com/xezno/xezno/pull/1) in [xezno/xezno](https://github.com/xezno/xezno)
+1. ❌ Closed PR [#5](https://github.com/xezno/gu3.me/pull/5) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
+2. ❌ Closed PR [#6](https://github.com/xezno/gu3.me/pull/6) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
+3. ❌ Closed PR [#3](https://github.com/xezno/gu3.me/pull/3) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
+4. 🎉 Merged PR [#2](https://github.com/xezno/gu3.me/pull/2) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
+5. 🎉 Merged PR [#1](https://github.com/xezno/gu3.me/pull/1) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
 <!--END_SECTION:activity-->
 </details>
