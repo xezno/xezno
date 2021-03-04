@@ -28,10 +28,10 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/xezno/gu3.me/pull/8) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-2. 🎉 Merged PR [#7](https://github.com/xezno/gu3.me/pull/7) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-3. ❌ Closed PR [#5](https://github.com/xezno/gu3.me/pull/5) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-4. ❌ Closed PR [#6](https://github.com/xezno/gu3.me/pull/6) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
-5. ❌ Closed PR [#3](https://github.com/xezno/gu3.me/pull/3) in [xezno/gu3.me](https://github.com/xezno/gu3.me)
+1. 🗣 Commented on [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/issues/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
+2. ❌ Closed PR [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/pull/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
+3. 💪 Opened PR [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/pull/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
+4. ❗️ Closed issue [#1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/issues/1) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
+5. 🗣 Commented on [#1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/issues/1) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
 <!--END_SECTION:activity-->
 </details>
