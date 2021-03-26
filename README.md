@@ -28,10 +28,10 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/issues/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
-2. ❌ Closed PR [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/pull/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
-3. 💪 Opened PR [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/pull/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
-4. ❗️ Closed issue [#1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/issues/1) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
-5. 🗣 Commented on [#1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/issues/1) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
+1. 🗣 Commented on [#1](https://github.com/ThemeParkWorld/OpenTPW/issues/1) in [ThemeParkWorld/OpenTPW](https://github.com/ThemeParkWorld/OpenTPW)
+2. 🗣 Commented on [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/issues/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
+3. ❌ Closed PR [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/pull/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
+4. 💪 Opened PR [#2](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/pull/2) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
+5. ❗️ Closed issue [#1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1/issues/1) in [The-Tin-Foil-Hat-Society/oop-assignment-1](https://github.com/The-Tin-Foil-Hat-Society/oop-assignment-1)
 <!--END_SECTION:activity-->
 </details>
