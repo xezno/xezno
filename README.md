@@ -1,22 +1,16 @@
-<div align="center">
-  <a href="https://alex.gu3.me/">
-    <img src="https://raw.githubusercontent.com/xezno/xezno/master/screenshot.png" />
-  </a>
-</div>
-
-<b>👆 Click this to go to my website 👆</b>
+# 👋 Hey! I'm Alex.
 
 🎮 I mainly work on <b><a href="https://github.com/uwutube">uwutube</a></b>
 
-🌱 I’m currently learning <b>Vulkan and Vue</b>
-
 👨‍💻 I have a website at <b><a href="https://gu3.me/">gu3.me</a></b>
 
-💻 I regularly use <b>C#, C++, and JavaScript</b>
+🌱 I’m currently learning <b>Vue</b>
 
-🤔 I'm mainly interested in <b>web development, computer graphics, and machine learning</b>
+💻 I regularly use <b>C# and JavaScript</b>
 
-### Metrics
+🤔 I'm mainly interested in <b>web development, game development, and computer graphics</b>
+
+## Metrics
 
 <details>
   <summary>GitHub metrics</summary>
