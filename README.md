@@ -4,7 +4,7 @@
 
 ✍️ I have a blog at <b><a href="https://blog.gu3.me/">blog.gu3.me</a></b>
 
-🎮 I'm currently working on <b><a href="https://github.com/uwutube">uwutube</a></b>
+🎮 I'm currently working on <b><a href="https://uwutube.co/">uwutube</a></b>
 
 💻 I regularly use <b>C# and JavaScript</b>
 
