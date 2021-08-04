@@ -4,8 +4,6 @@
 
 ✍️ I have a blog at <b><a href="https://blog.gu3.me/">blog.gu3.me</a></b>
 
-🎮 I'm currently working on <b><a href="https://uwutube.co/">uwutube</a></b>
+💻 I regularly use <b>C#, TypeScript, and JavaScript</b>
 
-💻 I regularly use <b>C# and JavaScript</b>
-
-🤔 I'm mainly interested in <b>web development, game development, and computer graphics</b>
+🤔 I'm mainly interested in <b>full-stack development, game development, and computer graphics</b>
