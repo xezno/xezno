@@ -6,4 +6,4 @@
 
 💻 I regularly use <b>C#, TypeScript, and JavaScript</b>
 
-🤔 I'm mainly interested in <b>full-stack development, game development, and computer graphics</b>
+🤔 I'm mainly interested in <b>full-stack web development, game development, and computer graphics</b>
