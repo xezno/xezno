@@ -1,9 +1,4 @@
-# 👋 Hey! I'm Alex.
+<b>👋 Hey! I'm Alex.</b>
 
-👨‍💻 I have a website at <b><a href="https://gu3.me/">gu3.me</a></b>
-
-✍️ I have a blog at <b><a href="https://blog.gu3.me/">blog.gu3.me</a></b>
-
-💻 I regularly use <b>C#, TypeScript, and JavaScript</b>
-
-🤔 I'm mainly interested in <b>full-stack web development, game development, and computer graphics</b>
+👨‍💻 Mainly interested in full-stack web development, game development, and computer graphics<br>
+🌐 I have a website at <a href="https://gu3.me/">gu3.me</a>
